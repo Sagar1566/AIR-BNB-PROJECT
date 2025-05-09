@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
 
-// Connect to MongoDB
+// Connect to MongoDB 
 const MONGO_URL = "mongodb://127.0.0.1:27017/wanderlust";
 
 main()
