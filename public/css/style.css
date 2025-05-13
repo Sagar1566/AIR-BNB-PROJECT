@@ -1,7 +1,13 @@
-body {
-    background-color: #f0f0f0;
-    font-family: Arial, sans-serif;
+.navbar {
+  height: 5rem;
+  background-color: white;
 }
-h1 {
-    color: teal;
+
+.fa-compass {
+  color: #fe424d;
+  font-size: 2rem;
+}
+
+.nav-link {
+  color: #222222 !important;
 }
